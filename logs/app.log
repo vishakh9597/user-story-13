@@ -1,0 +1,48 @@
+2026-04-06 20:26:11,284 - INFO - Processing order_id=104
+2026-04-06 20:26:11,300 - INFO - Order 104 fulfilled
+2026-04-06 20:26:11,316 - INFO - Processing order_id=103
+2026-04-06 20:26:11,318 - ERROR - Invalid date: invalid-date
+2026-04-06 20:26:11,323 - INFO - Processing order_id=101
+2026-04-06 20:26:11,323 - ERROR - Invalid product_id: P999
+2026-04-06 20:26:11,325 - INFO - Processing order_id=102
+2026-04-06 20:26:11,325 - ERROR - Invalid quantity: -5
+2026-04-06 20:26:11,334 - INFO - Processing order_id=106
+2026-04-06 20:26:11,334 - INFO - Order 106 fulfilled
+2026-04-06 20:26:11,337 - INFO - Processing order_id=107
+2026-04-06 20:26:11,337 - ERROR - Order 107 rejected
+2026-04-06 20:26:11,344 - INFO - Processing order_id=105
+2026-04-06 20:26:11,347 - ERROR - Order 105 partial
+2026-04-06 20:26:11,361 - INFO - Processing order_id=108
+2026-04-06 20:26:11,363 - INFO - Order 108 fulfilled
+2026-04-06 20:26:40,804 - INFO - Processing order_id=104
+2026-04-06 20:26:40,836 - INFO - Order 104 fulfilled
+2026-04-06 20:26:40,844 - INFO - Processing order_id=103
+2026-04-06 20:26:40,873 - ERROR - Invalid date: invalid-date
+2026-04-06 20:26:40,893 - INFO - Processing order_id=101
+2026-04-06 20:26:40,893 - ERROR - Invalid product_id: P999
+2026-04-06 20:26:40,905 - INFO - Processing order_id=102
+2026-04-06 20:26:40,905 - ERROR - Invalid quantity: -5
+2026-04-06 20:26:40,919 - INFO - Processing order_id=106
+2026-04-06 20:26:40,927 - INFO - Order 106 fulfilled
+2026-04-06 20:26:40,927 - INFO - Processing order_id=107
+2026-04-06 20:26:40,930 - ERROR - Order 107 rejected
+2026-04-06 20:26:40,941 - INFO - Processing order_id=105
+2026-04-06 20:26:40,949 - ERROR - Order 105 partial
+2026-04-06 20:26:40,973 - INFO - Processing order_id=108
+2026-04-06 20:26:40,978 - INFO - Order 108 fulfilled
+2026-04-06 20:26:54,143 - INFO - Processing order_id=104
+2026-04-06 20:26:54,167 - INFO - Order 104 fulfilled
+2026-04-06 20:26:54,173 - INFO - Processing order_id=103
+2026-04-06 20:26:54,206 - ERROR - Invalid date: invalid-date
+2026-04-06 20:26:54,210 - INFO - Processing order_id=101
+2026-04-06 20:26:54,210 - ERROR - Invalid product_id: P999
+2026-04-06 20:26:54,224 - INFO - Processing order_id=102
+2026-04-06 20:26:54,224 - ERROR - Invalid quantity: -5
+2026-04-06 20:26:54,234 - INFO - Processing order_id=106
+2026-04-06 20:26:54,239 - INFO - Order 106 fulfilled
+2026-04-06 20:26:54,241 - INFO - Processing order_id=107
+2026-04-06 20:26:54,243 - ERROR - Order 107 rejected
+2026-04-06 20:26:54,251 - INFO - Processing order_id=105
+2026-04-06 20:26:54,251 - ERROR - Order 105 partial
+2026-04-06 20:26:54,267 - INFO - Processing order_id=108
+2026-04-06 20:26:54,275 - INFO - Order 108 fulfilled
